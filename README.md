@@ -1,4 +1,3 @@
-# 🌐 Harshini's Portfolio
+## 🙋‍♀️ Harshini's Portfolio
 
-Check out my personal portfolio:  
-🔗 [https://harshini2411-portfolio.netlify.app/](https://harshini2411-portfolio.netlify.app/)
+<a href="https://harshini2411-portfolio.netlify.app/" target="_blank">Click here to view my portfolio 💼</a>
